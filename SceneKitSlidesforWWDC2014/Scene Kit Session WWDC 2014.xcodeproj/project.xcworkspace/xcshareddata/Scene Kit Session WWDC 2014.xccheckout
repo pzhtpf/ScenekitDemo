@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>65B78CCE-AFA2-4BB6-8EB7-C71714D1F39D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Scene Kit Session WWDC 2014</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>16BA8DAB-D239-438A-8373-5C95B0B3BA56</key>
+		<string>ssh://git.apple.com/git/SceneKitMisc</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OSX/demos/WWDC2014/Scene Kit Session WWDC 2014.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>16BA8DAB-D239-438A-8373-5C95B0B3BA56</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.apple.com/git/SceneKitMisc</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>16BA8DAB-D239-438A-8373-5C95B0B3BA56</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>16BA8DAB-D239-438A-8373-5C95B0B3BA56</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SceneKitMisc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
